@@ -1,0 +1,31 @@
+
+@font-face {
+    font-family: "sss";
+    src: url("https://cdn.codeground.org/nsr/fonts/SamsungSharpSans-Bold.woff2") format("woff2"),
+        url("https://cdn.codeground.org/nsr/fonts/SamsungSharpSans-Bold.woff") format("woff");
+    font-style: normal;
+    font-weight: 700;
+}
+
+
+#bo_ser {
+	font-size:14px;
+	color:#333;
+	position: absolute;
+	right: 0;
+}
+#page_num {
+	font-size: 14px;
+	margin-left: 260px;
+	margin-top:30px; 
+}
+#page_num ul li {
+	float: left;
+	margin-left: 10px; 
+	text-align: center;
+	list-style: none;
+}
+.fo_re {
+	font-weight: bold;
+	color:red;
+}
